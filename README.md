@@ -1,22 +1,22 @@
 # Hey there! 👋 I'm Krishan
 
-👨‍💻 Computer Science Student | 🌱 Learning React | ✨ FrontEnd Enthusiast
+👨‍💻 Computer Science Student | 🌱 Learning Flutter | ✨ FullStack Enthusiast
 
-Welcome to my coding universe! I'm a passionate computer science student on a mission to conquer the world of code. Currently, I'm diving headfirst into the world of React, eager to create captivating user interfaces and bring my FrontEnd dreams to life.
+Welcome to my coding universe! I'm a passionate computer science student on a mission to conquer the world of code. Currently, I'm diving headfirst into the world of Flutter, eager to create captivating user interfaces and bring my Applications to life.
 
 ## 🚀 What I'm Up To
 
 📚 I'm currently studying computer science with a keen focus on developing strong programming foundations and problem-solving skills.
 
-💡 I'm learning React to build dynamic and interactive web applications. The journey of mastering this library is an exciting one, and I'm enjoying every component I create!
 
-🎨 As an avid FrontEnd enthusiast, I'm fascinated by the power of design and user experience. I'm determined to create web interfaces that are not only functional but also visually engaging.
+
+
 
 ## 💬 Let's Connect
 
 🌐 You can find me on [GitHub](https://github.com/KrisD23) where I'm constantly exploring, learning, and sharing my projects.
 
-📫 Feel free to reach out to me via [email](mailto:youremail@example.com) if you'd like to collaborate, share insights, or just chat about all things tech.
+📫 Feel free to reach out to me via [linkedin](https://www.linkedin.com/in/krishan-dwivedi-23d42/) if you'd like to collaborate, share insights, or just chat about all things tech.
 
 
 ## 🌟 Join Me on this Adventure
