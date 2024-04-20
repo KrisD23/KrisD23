@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate developer currently diving into the world of Next.js, exploring data structures and algorithms, and honing my skills in web design. <br>I'm also open to collaborating on exciting web and Flutter projects
+Web developer passionate about creating SaaS solutions to solve real-world problems. Constantly learning and building to make a positive impact <br> Most of my repos are private because they are saas.😅
 
 
 ## 🌐 Socials:
