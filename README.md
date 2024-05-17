@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web developer passionate about creating SaaS solutions to solve real-world problems. Constantly learning and building to make a positive impact<br>Most of my repos are private because they are saas.😅
+Creating to make life easy, visit portfolio to explore
 
 
 ## 🌐 Socials:
