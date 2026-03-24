@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-krishandwivedi.tech-6c63ff?style=for-the-badge&logo=vercel&logoColor=white)](https://krishandwivedi.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-krishandw-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishandw)
 [![X](https://img.shields.io/badge/X-krisd23_-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/krisd23_)
-[![Email](https://img.shields.io/badge/Email-krishandwive9@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishandwive9@gmail.com)
+<!--[![Email](https://img.shields.io/badge/Email-krishandwive9@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishandwive9@gmail.com) -->
 
 </div>
 
